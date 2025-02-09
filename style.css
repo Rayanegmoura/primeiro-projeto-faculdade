@@ -195,7 +195,7 @@ section.topo-do-site {
     padding: 40px 4%;
 }
 
-section.topo-do-site.flex {
+section.topo-do-site .flex {
     align-items: center;
     justify-content: center;
     gap: 90px;
